@@ -3,31 +3,32 @@
 Sorting algorithm visualizer for merge sort, quick sort, insertion sort, and bubble sort.
 
 **Instructions**
-1. Select animation speed first 
+1. Select a sorting algorithm
 2. Generate random array of bars
-3. Select sorting method
+3. Click desired sorting
 4. Buttons are disabled until sort is complete. Refresh page to restart.
 5. Repeat steps 1 ~ 4 to try different sort methods
 
-<img width="1440" alt="Screen Shot 2022-06-06 at 9 32 39 PM" src="https://user-images.githubusercontent.com/76458258/172161490-0c72d8f3-3de0-46ec-b3cb-97ad6210dd5a.png">
+
+<img width="1418" alt="Screen Shot 2022-06-19 at 11 18 13 PM" src="https://user-images.githubusercontent.com/76458258/174485601-79502b80-e1a9-4d4f-94dc-bd7eeb6a15b0.png">
 
 <details>
 <summary>Merge Sort</summary>
-<img width="1126" alt="Screen Shot 2022-06-06 at 9 39 40 PM" src="https://user-images.githubusercontent.com/76458258/172162363-37110fae-42f3-4dbc-8cd8-cdfc4147e8bf.png">
+<img width="1440" alt="Screen Shot 2022-06-19 at 11 22 11 PM" src="https://user-images.githubusercontent.com/76458258/174485712-b35b4ba7-6665-4a40-ab16-0f502eda39df.png">
 </details>
 
 <details>
 <summary>Quick Sort</summary>
-<img width="1122" alt="Screen Shot 2022-06-06 at 9 45 27 PM" src="https://user-images.githubusercontent.com/76458258/172163193-98a2c855-91be-46b9-a532-06f2390ebab6.png">
+<img width="1440" alt="Screen Shot 2022-06-19 at 11 24 27 PM" src="https://user-images.githubusercontent.com/76458258/174485819-2389c25b-e522-4f7a-b315-f3cf55a01527.png">
 </details>
 
 <details>
 <summary>Insertion Sort</summary>
-<img width="1121" alt="Screen Shot 2022-06-06 at 9 44 45 PM" src="https://user-images.githubusercontent.com/76458258/172163195-fbc34d6c-7e8e-4e88-a3f9-56adc9e8d3c7.png">
+<img width="1440" alt="Screen Shot 2022-06-19 at 11 25 34 PM" src="https://user-images.githubusercontent.com/76458258/174485869-fa207456-b064-4a4f-9957-387292f0ad3f.png">
 </details>
 
 <details>
 <summary>Bubble Sort</summary>
-<img width="1130" alt="Screen Shot 2022-06-06 at 9 48 10 PM" src="https://user-images.githubusercontent.com/76458258/172163761-4597f0db-d88f-4c53-87a5-4fed28525101.png">
+<img width="1440" alt="Screen Shot 2022-06-19 at 11 27 05 PM" src="https://user-images.githubusercontent.com/76458258/174485944-49b176e5-dfcc-4d91-ae43-88106013264c.png">
 </details>
 
