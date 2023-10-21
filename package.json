@@ -15,7 +15,7 @@
     "eject": "react-scripts eject"
   },
   "devDependencies": {
-    "nodemon": "^2.0.16",
+    "nodemon": "^2.0.22",
     "react-scripts": "latest"
   },
   "browserslist": {
